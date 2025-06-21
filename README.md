@@ -28,7 +28,7 @@ This repository showcases my hands-on experience in data analysis, dashboard dev
 
 ### 1️⃣ Engine Maintenance Analysis (ADOUER 811)
 
-**Folder:** `Engine_Maintenance_Analysis/`
+**Folder:** `[Engine_Maintenance_Analysis](https://github.com/Laxmikanth2580/Power-BI)
 
 A detailed analysis of engine maintenance records for ADOUER 811. The project aims to assist operations and maintenance teams in identifying recurring issues, controlling costs, and predicting potential failures.
 
