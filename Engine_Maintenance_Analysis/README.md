@@ -135,10 +135,10 @@ The pipeline follows these stages:
 
 ## 📧 Contact
 
-**Laxmi**  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile]  
-🌐 [Your Portfolio Website]
+**Laxmikanth**  
+📧 klaxmikanth95@gmail.com  
+🔗 [linkedin.com/in/laxmikanth-k-559b74328](https://www.linkedin.com/in/laxmikanth-k-559b74328/)  
+🌐 [Portfolio](https://laxmikanth2580.github.io/)
 
 ---
 
