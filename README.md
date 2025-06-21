@@ -28,7 +28,7 @@ This repository showcases my hands-on experience in data analysis, dashboard dev
 
 ### 1️⃣ Engine Maintenance Analysis (ADOUER 811)
 
-**Folder:** `[Engine_Maintenance_Analysis](https://github.com/Laxmikanth2580/Power-BI)
+**Folder:** [Engine_Maintenance_Analysis](Engine_Maintenance_Analysis)
 
 A detailed analysis of engine maintenance records for ADOUER 811. The project aims to assist operations and maintenance teams in identifying recurring issues, controlling costs, and predicting potential failures.
 
@@ -44,7 +44,7 @@ A detailed analysis of engine maintenance records for ADOUER 811. The project ai
 
 ### 2️⃣ Medicine Sales Analysis
 
-**Folder:** `Medicine_Sales_Analysis/`
+**Folder:** [Medicine_Sales_Analysis](Medicine_Sales_Analysis)
 
 This project analyzes pharmaceutical sales data, helping management understand performance trends, optimize inventory, and make informed business decisions.
 
